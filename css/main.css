@@ -49,7 +49,7 @@ body{
     cursor:pointer;
 }
 #btn-prev:hover, #btn-next:hover{
- background:rgba(255,255,255,1);
+    background:rgba(255,255,255,1);
  
 }
 #btn-prev{
